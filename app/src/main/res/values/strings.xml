@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">EventApp</string>
+    <string name="title_upcoming">Upcoming</string>
+    <string name="title_finished">Finished</string>
+    <string name="title_home">Home</string>
+    <string name="searchbar_hint">Masukkan kata</string>
+
+    <string name="quota_left">Sisa Kuota :</string>
+    <string name="by">Oleh :</string>
+    <string name="begin_time">Waktu Mulai :</string>
+
+
+    <string name="event_name">Event Name</string>
+    <string name="event_description">Event Description</string>
+    <string name="detail_owner">Detail Owner</string>
+    <string name="detail_title">Detail Title</string>
+    <string name="detail_time">Detail Time</string>
+    <string name="detail_quota">Detail Quota</string>
+    <string name="detail_description">Detail Description</string>
+    <string name="register_event">Register Event</string>
+    <string name="image_of_event">Image of event</string>
+    <string name="finished_event">Finished Event</string>
+    <string name="upcoming_event">Upcoming Event</string>
+    <string name="dicoding_event">Dicoding Event</string>
+    <string name="item_image_for_displaying_event">Item image for displaying event</string>
+    <string name="title_setting">Setting</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="toggle_favorite_icon">Toggle Favorite Icon</string>
+</resources>
